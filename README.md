@@ -1,7 +1,7 @@
 # 🎬 YouTube Ad Revenue Prediction & Streamlit Web App
 
 ## 📘 Project Objective
-Develop a **Linear Regression–based predictive model** to accurately estimate **YouTube ad revenue** for individual videos using performance and contextual metrics.  
+Develop a **Regression–based predictive model** to accurately estimate **YouTube ad revenue** for individual videos using performance and contextual metrics.  
 Integrate the trained model into an **interactive Streamlit web app** for real-time revenue forecasting and data-driven content strategy.
 
 ---
