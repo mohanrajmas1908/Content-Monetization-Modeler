@@ -40,13 +40,8 @@ Integrate the trained model into an **interactive Streamlit web app** for real-t
 ---
 
 ## 📈 Regression Models Implemented
-- Linear Regression (Primary)
 - K-Nearest Neighbors (KNN)
 - Decision Tree Regressor
 - Random Forest Regressor
 - Gradient Boosting Regressor
 - Extra Trees Regressor
-
----
-
-## 📂 Project Structure
